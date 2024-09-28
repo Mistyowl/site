@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(203, 255, 228);
+}
+
+h1 {
+   color: rgb(65, 116, 0); 
+}
+
+p {
+    color: blueviolet;
+    font-size: 5px;
+}
+
+img {
+    border: 10px dotted pink;
+    height: 100px;
+}
